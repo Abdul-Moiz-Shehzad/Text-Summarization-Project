@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summarization-Project"
 AUTHOR_USER_NAME = "Abdul-Moiz-Shehzad"
-SRC_REPO = "Text-Summarizer"
+SRC_REPO = "TextSummarizer"
 AUTHOR_EMAIL = "l227468@lhr.nu.edu.pk"
 
 
