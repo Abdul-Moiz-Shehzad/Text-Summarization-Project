@@ -2,6 +2,7 @@ transformers
 transformers[sentencepiece]
 datasets
 sacrebleu
+notebook
 rouge-score
 py7zr
 pandas
